@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### I am a Data Scientist with Master degrees in Information Technology and Data Science, with experence in applying ML, deep learning and NLP models in various domains. 
 <!--
 **elso6482/elso6482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
