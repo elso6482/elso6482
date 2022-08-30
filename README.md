@@ -1,7 +1,9 @@
 ### I am a Data Scientist with Master degrees in Information Technology and Data Science, with experence in applying ML, deep learning and NLP models in various domains.
 
 -currently working on various data science project with Apziva
+
 -participated in 2 NLP projects with University of Sydney
+
 -Interested in Reinforcement learning and Cloud technology
 
 
